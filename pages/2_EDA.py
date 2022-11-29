@@ -24,7 +24,7 @@ st.sidebar.markdown("# EDA")
 st.header('Visualización Inicial')
 st.write(df.tail())
 
-st.write('El DataFrame se compone de ' +str(df.shape[1])+ ' columnas y '+str(df.shape[0])+' filas' )
+st.write('El DataFrame, es decir, la base de datos, se compone de ' +str(df.shape[1])+ ' columnas y '+str(df.shape[0])+' filas' )
 with st.expander('Tratamiento de datos nulos', expanded=False):
     st.header('Tratamiento de datos nulos')
     st.write('Vamos a observar si hay datos nulos y en que columnas:')
