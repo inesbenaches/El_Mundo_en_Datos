@@ -1,7 +1,7 @@
 # Librerías esenciales
 numpy==1.23.3
 pandas==1.5.0
-
+openpyxl== 3.0.10
 
 # Visualizaciones
 matplotlib==3.6.0
