@@ -9,3 +9,6 @@ Es un App hecha con streamlit donde podeis echar un vistazo a datos demográfico
 Espero que os guste!
 
 Cualquier recomendación es bienvenida
+Para ver el App en streamcloud:
+
+https://inesbenaches-el-mundo-en-datos-introduccion-tp6hgo.streamlit.app/
