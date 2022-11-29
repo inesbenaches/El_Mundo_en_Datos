@@ -1,0 +1,18 @@
+# Librerías esenciales
+numpy=1.23.3
+pandas=1.5.0
+
+
+# Visualizaciones
+matplotlib=3.6.0
+seaborn=0.12.0
+plotly=5.10.0
+streamlit=1.14.0
+requests=2.28.1
+
+# Estadistica
+statsmodels=0.13.2
+
+#import json
+#from PIL import Image
+#from io import BytesIO
