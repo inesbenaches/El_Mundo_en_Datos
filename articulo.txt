@@ -1,0 +1,8 @@
+Trackea los archivos:
+ $ git add .
+
+Commitea los archivos:
+ $ git commit -m “gracias ktufernando”
+
+Subi los archivos al repositorio remoto:
+ $ git push -u origin master

@@ -1,0 +1,707 @@
+,ISO2,Nombre,flag,palette,rgb1,rgb2,rgb3
+0,AF,Afghanistan,https://flagcdn.com/w160/af.png,"[[  0 122  54]
+ [  0   0   0]
+ [211  32  17]]","rgba(0,122,54,1)","rgba(0,0,0,1)","rgba(211,32,17,1)"
+1,AL,Albania,https://flagcdn.com/w160/al.png,"[[255   0   0]
+ [  0   0   0]
+ [ 22   0   0]]","rgba(255,0,0,1)","rgba(0,0,0,1)","rgba(22,0,0,1)"
+2,DZ,Algeria,https://flagcdn.com/w160/dz.png,"[[255 255 255]
+ [  0  98  51]
+ [210  16  52]]","rgba(255,255,255,1)","rgba(0,98,51,1)","rgba(210,16,52,1)"
+3,AS,American Samoa,https://flagcdn.com/w160/as.png,"[[  0   0 102]
+ [255 255 255]
+ [189  16  33]]","rgba(0,0,102,1)","rgba(255,255,255,1)","rgba(189,16,33,1)"
+4,AD,Andorra,https://flagcdn.com/w160/ad.png,"[[  0  24 168]
+ [208  16  58]
+ [254 223   0]]","rgba(0,24,168,1)","rgba(208,16,58,1)","rgba(254,223,0,1)"
+5,AO,Angola,https://flagcdn.com/w160/ao.png,"[[204   9  47]
+ [  0   0   0]
+ [255 203   0]]","rgba(204,9,47,1)","rgba(0,0,0,1)","rgba(255,203,0,1)"
+6,AI,Anguilla,https://flagcdn.com/w160/ai.png,"[[  1  33 105]
+ [255 255 255]
+ [200  16  46]]","rgba(1,33,105,1)","rgba(255,255,255,1)","rgba(200,16,46,1)"
+7,AG,Antigua and Barbuda,https://flagcdn.com/w160/ag.png,"[[206  17  38]
+ [  0   0   0]
+ [  0 114 198]]","rgba(206,17,38,1)","rgba(0,0,0,1)","rgba(0,114,198,1)"
+8,AR,Argentina,https://flagcdn.com/w160/ar.png,"[[116 172 223]
+ [255 255 255]
+ [209 227 244]]","rgba(116,172,223,1)","rgba(255,255,255,1)","rgba(209,227,244,1)"
+9,AM,Armenia,https://flagcdn.com/w160/am.png,"[[  0  51 160]
+ [217   0  18]
+ [242 168   0]]","rgba(0,51,160,1)","rgba(217,0,18,1)","rgba(242,168,0,1)"
+10,AW,Aruba,https://flagcdn.com/w160/aw.png,"[[ 65 143 222]
+ [255 209   0]
+ [208 192  55]]","rgba(65,143,222,1)","rgba(255,209,0,1)","rgba(208,192,55,1)"
+11,AU,Australia,https://flagcdn.com/w160/au.png,"[[  1  33 105]
+ [228   0  43]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(228,0,43,1)","rgba(255,255,255,1)"
+12,AT,Austria,https://flagcdn.com/w160/at.png,"[[237  41  57]
+ [255 255 255]
+ [243 112 123]]","rgba(237,41,57,1)","rgba(255,255,255,1)","rgba(243,112,123,1)"
+13,AZ,Azerbaijan,https://flagcdn.com/w160/az.png,"[[  0 185 228]
+ [ 63 156  53]
+ [237  41  57]]","rgba(0,185,228,1)","rgba(63,156,53,1)","rgba(237,41,57,1)"
+14,BS,Bahamas,https://flagcdn.com/w160/bs.png,"[[  0 119 139]
+ [  0   0   0]
+ [255 199  44]]","rgba(0,119,139,1)","rgba(0,0,0,1)","rgba(255,199,44,1)"
+15,BH,Bahrain,https://flagcdn.com/w160/bh.png,"[[206  17  38]
+ [255 255 255]
+ [254 245 246]]","rgba(206,17,38,1)","rgba(255,255,255,1)","rgba(254,245,246,1)"
+16,BD,Bangladesh,https://flagcdn.com/w160/bd.png,"[[  0 106  78]
+ [244  42  65]
+ [174  60  68]]","rgba(0,106,78,1)","rgba(244,42,65,1)","rgba(174,60,68,1)"
+17,BB,Barbados,https://flagcdn.com/w160/bb.png,"[[  0  38 127]
+ [255 199  38]
+ [  0   0   0]]","rgba(0,38,127,1)","rgba(255,199,38,1)","rgba(0,0,0,1)"
+18,BY,Belarus,https://flagcdn.com/w160/by.png,"[[206  23  32]
+ [  0 124  48]
+ [255 255 255]]","rgba(206,23,32,1)","rgba(0,124,48,1)","rgba(255,255,255,1)"
+19,BE,Belgium,https://flagcdn.com/w160/be.png,"[[237  41  57]
+ [  0   0   0]
+ [250 224  66]]","rgba(237,41,57,1)","rgba(0,0,0,1)","rgba(250,224,66,1)"
+20,BZ,Belize,https://flagcdn.com/w160/bz.png,"[[ 23  22 150]
+ [217  15  25]
+ [255 255 255]]","rgba(23,22,150,1)","rgba(217,15,25,1)","rgba(255,255,255,1)"
+21,BJ,Benin,https://flagcdn.com/w160/bj.png,"[[  0 135  81]
+ [232  17  45]
+ [252 209  22]]","rgba(0,135,81,1)","rgba(232,17,45,1)","rgba(252,209,22,1)"
+22,BM,Bermuda,https://flagcdn.com/w160/bm.png,"[[200  16  46]
+ [255 255 255]
+ [  1  33 105]]","rgba(200,16,46,1)","rgba(255,255,255,1)","rgba(1,33,105,1)"
+23,BT,Bhutan,https://flagcdn.com/w160/bt.png,"[[255 213  32]
+ [255  78  18]
+ [255 255 255]]","rgba(255,213,32,1)","rgba(255,78,18,1)","rgba(255,255,255,1)"
+24,BO,Bolivia (Plurinational State of),https://flagcdn.com/w160/bo.png,"[[  0 121  52]
+ [213  43  30]
+ [249 227   0]]","rgba(0,121,52,1)","rgba(213,43,30,1)","rgba(249,227,0,1)"
+25,BQ,"Bonaire, Sint Eustatius and Saba",https://flagcdn.com/w160/bq.png,"[[  1  42 135]
+ [255 255 255]
+ [249 217  15]]","rgba(1,42,135,1)","rgba(255,255,255,1)","rgba(249,217,15,1)"
+26,BA,Bosnia and Herzegovina,https://flagcdn.com/w160/ba.png,"[[  0  35 149]
+ [254 203   0]
+ [255 255 255]]","rgba(0,35,149,1)","rgba(254,203,0,1)","rgba(255,255,255,1)"
+27,BW,Botswana,https://flagcdn.com/w160/bw.png,"[[109 169 210]
+ [  0   0   0]
+ [255 255 255]]","rgba(109,169,210,1)","rgba(0,0,0,1)","rgba(255,255,255,1)"
+28,BR,Brazil,https://flagcdn.com/w160/br.png,"[[  0 155  58]
+ [254 223   0]
+ [  0  39 118]]","rgba(0,155,58,1)","rgba(254,223,0,1)","rgba(0,39,118,1)"
+29,VG,British Virgin Islands,https://flagcdn.com/w160/vg.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+30,BN,Brunei Darussalam,https://flagcdn.com/w160/bn.png,"[[247 224  23]
+ [255 255 255]
+ [  0   0   0]]","rgba(247,224,23,1)","rgba(255,255,255,1)","rgba(0,0,0,1)"
+31,BG,Bulgaria,https://flagcdn.com/w160/bg.png,"[[  0 150 110]
+ [214  38  18]
+ [255 255 255]]","rgba(0,150,110,1)","rgba(214,38,18,1)","rgba(255,255,255,1)"
+32,BF,Burkina Faso,https://flagcdn.com/w160/bf.png,"[[239  43  45]
+ [  0 158  73]
+ [252 209  21]]","rgba(239,43,45,1)","rgba(0,158,73,1)","rgba(252,209,21,1)"
+33,BI,Burundi,https://flagcdn.com/w160/bi.png,"[[ 30 181  58]
+ [255 255 255]
+ [206  17  38]]","rgba(30,181,58,1)","rgba(255,255,255,1)","rgba(206,17,38,1)"
+34,CV,Cabo Verde,https://flagcdn.com/w160/cv.png,"[[  0  56 147]
+ [255 255 255]
+ [207  32  39]]","rgba(0,56,147,1)","rgba(255,255,255,1)","rgba(207,32,39,1)"
+35,KH,Cambodia,https://flagcdn.com/w160/kh.png,"[[  3  46 161]
+ [224   0  37]
+ [113  23  98]]","rgba(3,46,161,1)","rgba(224,0,37,1)","rgba(113,23,98,1)"
+36,CM,Cameroon,https://flagcdn.com/w160/cm.png,"[[252 209  22]
+ [  0 122  94]
+ [206  17  38]]","rgba(252,209,22,1)","rgba(0,122,94,1)","rgba(206,17,38,1)"
+37,CA,Canada,https://flagcdn.com/w160/ca.png,"[[255   0   0]
+ [255 255 255]
+ [255  90  90]]","rgba(255,0,0,1)","rgba(255,255,255,1)","rgba(255,90,90,1)"
+38,KY,Cayman Islands,https://flagcdn.com/w160/ky.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+39,CF,Central African Republic,https://flagcdn.com/w160/cf.png,"[[255 206   0]
+ [255 255 255]
+ [ 40 151  40]]","rgba(255,206,0,1)","rgba(255,255,255,1)","rgba(40,151,40,1)"
+40,TD,Chad,https://flagcdn.com/w160/td.png,"[[  0  38 100]
+ [198  12  48]
+ [254 203   0]]","rgba(0,38,100,1)","rgba(198,12,48,1)","rgba(254,203,0,1)"
+41,CL,Chile,https://flagcdn.com/w160/cl.png,"[[213  43  30]
+ [255 255 255]
+ [  0  57 166]]","rgba(213,43,30,1)","rgba(255,255,255,1)","rgba(0,57,166,1)"
+42,CN,China,https://flagcdn.com/w160/cn.png,"[[222  41  16]
+ [255 222   0]
+ [222  40  15]]","rgba(222,41,16,1)","rgba(255,222,0,1)","rgba(222,40,15,1)"
+43,HK,"China, Hong Kong SAR",https://flagcdn.com/w160/hk.png,"[[222  41  16]
+ [255 255 255]
+ [253 242 241]]","rgba(222,41,16,1)","rgba(255,255,255,1)","rgba(253,242,241,1)"
+44,MO,"China, Macao SAR",https://flagcdn.com/w160/mo.png,"[[ 15 117  98]
+ [255 255 255]
+ [ 14 116  97]]","rgba(15,117,98,1)","rgba(255,255,255,1)","rgba(14,116,97,1)"
+45,TW,"China, Taiwan Province of China",https://flagcdn.com/w160/tw.png,"[[254   0   0]
+ [  0   0 149]
+ [255 255 255]]","rgba(254,0,0,1)","rgba(0,0,149,1)","rgba(255,255,255,1)"
+46,CO,Colombia,https://flagcdn.com/w160/co.png,"[[252 209  22]
+ [  0  56 147]
+ [206  17  38]]","rgba(252,209,22,1)","rgba(0,56,147,1)","rgba(206,17,38,1)"
+47,KM,Comoros,https://flagcdn.com/w160/km.png,"[[ 58 117 196]
+ [255 198  30]
+ [ 61 142  51]]","rgba(58,117,196,1)","rgba(255,198,30,1)","rgba(61,142,51,1)"
+48,CG,Congo,https://flagcdn.com/w160/cg.png,"[[220  36  31]
+ [251 222  74]
+ [  0 149  67]]","rgba(220,36,31,1)","rgba(251,222,74,1)","rgba(0,149,67,1)"
+49,CK,Cook Islands,https://flagcdn.com/w160/ck.png,"[[  1  33 105]
+ [255 255 255]
+ [200  16  46]]","rgba(1,33,105,1)","rgba(255,255,255,1)","rgba(200,16,46,1)"
+50,CR,Costa Rica,https://flagcdn.com/w160/cr.png,"[[255 255 255]
+ [  0  43 127]
+ [206  17  38]]","rgba(255,255,255,1)","rgba(0,43,127,1)","rgba(206,17,38,1)"
+51,HR,Croatia,https://flagcdn.com/w160/hr.png,"[[255   0   0]
+ [ 23  23 150]
+ [255 255 255]]","rgba(255,0,0,1)","rgba(23,23,150,1)","rgba(255,255,255,1)"
+52,CU,Cuba,https://flagcdn.com/w160/cu.png,"[[  0  42 143]
+ [255 255 255]
+ [207  20  43]]","rgba(0,42,143,1)","rgba(255,255,255,1)","rgba(207,20,43,1)"
+53,CW,Curaçao,https://flagcdn.com/w160/cw.png,"[[  0  43 127]
+ [249 232  20]
+ [255 255 255]]","rgba(0,43,127,1)","rgba(249,232,20,1)","rgba(255,255,255,1)"
+54,CY,Cyprus,https://flagcdn.com/w160/cy.png,"[[255 255 255]
+ [213 120   0]
+ [ 78  91  49]]","rgba(255,255,255,1)","rgba(213,120,0,1)","rgba(78,91,49,1)"
+55,CZ,Czechia,https://flagcdn.com/w160/cz.png,"[[255 255 255]
+ [215  20  26]
+ [ 17  69 126]]","rgba(255,255,255,1)","rgba(215,20,26,1)","rgba(17,69,126,1)"
+56,CI,Côte d'Ivoire,https://flagcdn.com/w160/ci.png,"[[  0 158  96]
+ [247 127   0]
+ [255 255 255]]","rgba(0,158,96,1)","rgba(247,127,0,1)","rgba(255,255,255,1)"
+57,KP,Dem. People's Republic of Korea,https://flagcdn.com/w160/kp.png,"[[237  28  39]
+ [  2  79 162]
+ [255 255 255]]","rgba(237,28,39,1)","rgba(2,79,162,1)","rgba(255,255,255,1)"
+58,CD,Democratic Republic of the Congo,https://flagcdn.com/w160/cd.png,"[[  0 127 255]
+ [206  16  33]
+ [247 214  24]]","rgba(0,127,255,1)","rgba(206,16,33,1)","rgba(247,214,24,1)"
+59,DK,Denmark,https://flagcdn.com/w160/dk.png,"[[198  12  48]
+ [255 255 255]
+ [213  73 100]]","rgba(198,12,48,1)","rgba(255,255,255,1)","rgba(213,73,100,1)"
+60,DJ,Djibouti,https://flagcdn.com/w160/dj.png,"[[ 18 173  43]
+ [106 178 231]
+ [255 255 255]]","rgba(18,173,43,1)","rgba(106,178,231,1)","rgba(255,255,255,1)"
+61,DM,Dominica,https://flagcdn.com/w160/dm.png,"[[  0 107  63]
+ [255 255 255]
+ [252 209  22]]","rgba(0,107,63,1)","rgba(255,255,255,1)","rgba(252,209,22,1)"
+62,DO,Dominican Republic,https://flagcdn.com/w160/do.png,"[[206  17  38]
+ [  0  45  98]
+ [255 255 255]]","rgba(206,17,38,1)","rgba(0,45,98,1)","rgba(255,255,255,1)"
+63,EC,Ecuador,https://flagcdn.com/w160/ec.png,"[[255 221   0]
+ [237  28  36]
+ [  3  78 162]]","rgba(255,221,0,1)","rgba(237,28,36,1)","rgba(3,78,162,1)"
+64,EG,Egypt,https://flagcdn.com/w160/eg.png,"[[  0   0   0]
+ [206  17  38]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+65,SV,El Salvador,https://flagcdn.com/w160/sv.png,"[[  0  71 171]
+ [255 255 255]
+ [255 249 223]]","rgba(0,71,171,1)","rgba(255,255,255,1)","rgba(255,249,223,1)"
+66,GQ,Equatorial Guinea,https://flagcdn.com/w160/gq.png,"[[ 62 154   0]
+ [227  33  24]
+ [255 255 255]]","rgba(62,154,0,1)","rgba(227,33,24,1)","rgba(255,255,255,1)"
+67,ER,Eritrea,https://flagcdn.com/w160/er.png,"[[234   4  55]
+ [ 18 173  43]
+ [ 65 137 221]]","rgba(234,4,55,1)","rgba(18,173,43,1)","rgba(65,137,221,1)"
+68,EE,Estonia,https://flagcdn.com/w160/ee.png,"[[  0   0   0]
+ [  0 114 206]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(0,114,206,1)","rgba(255,255,255,1)"
+69,SZ,Eswatini,https://flagcdn.com/w160/sz.png,"[[ 62  94 185]
+ [177  12  12]
+ [255 217   0]]","rgba(62,94,185,1)","rgba(177,12,12,1)","rgba(255,217,0,1)"
+70,ET,Ethiopia,https://flagcdn.com/w160/et.png,"[[218  18  26]
+ [  7 137  48]
+ [252 221   9]]","rgba(218,18,26,1)","rgba(7,137,48,1)","rgba(252,221,9,1)"
+71,FK,Falkland Islands (Malvinas),https://flagcdn.com/w160/fk.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+72,FO,Faroe Islands,https://flagcdn.com/w160/fo.png,"[[255 255 255]
+ [237  41  57]
+ [  0 101 189]]","rgba(255,255,255,1)","rgba(237,41,57,1)","rgba(0,101,189,1)"
+73,FJ,Fiji,https://flagcdn.com/w160/fj.png,"[[105 179 231]
+ [200  16  46]
+ [255 255 255]]","rgba(105,179,231,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+74,FI,Finland,https://flagcdn.com/w160/fi.png,"[[255 255 255]
+ [  0  53 128]
+ [162 181 209]]","rgba(255,255,255,1)","rgba(0,53,128,1)","rgba(162,181,209,1)"
+75,FR,France,https://flagcdn.com/w160/fr.png,"[[237  41  57]
+ [  0  35 149]
+ [255 255 255]]","rgba(237,41,57,1)","rgba(0,35,149,1)","rgba(255,255,255,1)"
+76,GF,French Guiana,https://flagcdn.com/w160/gf.png,"[[  7 137  48]
+ [252 221   9]
+ [218  18  26]]","rgba(7,137,48,1)","rgba(252,221,9,1)","rgba(218,18,26,1)"
+77,PF,French Polynesia,https://flagcdn.com/w160/pf.png,"[[206  17  38]
+ [255 255 255]
+ [219  77  93]]","rgba(206,17,38,1)","rgba(255,255,255,1)","rgba(219,77,93,1)"
+78,GA,Gabon,https://flagcdn.com/w160/ga.png,"[[  0 158  96]
+ [ 58 117 196]
+ [252 209  22]]","rgba(0,158,96,1)","rgba(58,117,196,1)","rgba(252,209,22,1)"
+79,GM,Gambia,https://flagcdn.com/w160/gm.png,"[[206  17  38]
+ [ 58 119  40]
+ [ 12  28 140]]","rgba(206,17,38,1)","rgba(58,119,40,1)","rgba(12,28,140,1)"
+80,GE,Georgia,https://flagcdn.com/w160/ge.png,"[[255 255 255]
+ [255   0   0]
+ [255 191 191]]","rgba(255,255,255,1)","rgba(255,0,0,1)","rgba(255,191,191,1)"
+81,DE,Germany,https://flagcdn.com/w160/de.png,"[[  0   0   0]
+ [221   0   0]
+ [255 206   0]]","rgba(0,0,0,1)","rgba(221,0,0,1)","rgba(255,206,0,1)"
+82,GH,Ghana,https://flagcdn.com/w160/gh.png,"[[206  17  38]
+ [  0 107  63]
+ [252 209  22]]","rgba(206,17,38,1)","rgba(0,107,63,1)","rgba(252,209,22,1)"
+83,GI,Gibraltar,https://flagcdn.com/w160/gi.png,"[[255 255 255]
+ [218   0  12]
+ [  0   0   0]]","rgba(255,255,255,1)","rgba(218,0,12,1)","rgba(0,0,0,1)"
+84,GR,Greece,https://flagcdn.com/w160/gr.png,"[[ 13  94 175]
+ [255 255 255]
+ [195 215 235]]","rgba(13,94,175,1)","rgba(255,255,255,1)","rgba(195,215,235,1)"
+85,GL,Greenland,https://flagcdn.com/w160/gl.png,"[[208  12  51]
+ [255 255 255]
+ [231 133 152]]","rgba(208,12,51,1)","rgba(255,255,255,1)","rgba(231,133,152,1)"
+86,GD,Grenada,https://flagcdn.com/w160/gd.png,"[[206  17  38]
+ [252 209  22]
+ [  0 122  94]]","rgba(206,17,38,1)","rgba(252,209,22,1)","rgba(0,122,94,1)"
+87,GP,Guadeloupe,https://flagcdn.com/w160/gp.png,"[[  0   0   0]
+ [  0  36 136]
+ [252 221   9]]","rgba(0,0,0,1)","rgba(0,36,136,1)","rgba(252,221,9,1)"
+88,GU,Guam,https://flagcdn.com/w160/gu.png,"[[  0  41 123]
+ [198  33  57]
+ [146 219 252]]","rgba(0,41,123,1)","rgba(198,33,57,1)","rgba(146,219,252,1)"
+89,GT,Guatemala,https://flagcdn.com/w160/gt.png,"[[ 73 151 208]
+ [255 255 255]
+ [194 220 239]]","rgba(73,151,208,1)","rgba(255,255,255,1)","rgba(194,220,239,1)"
+90,GG,Guernsey,https://flagcdn.com/w160/gg.png,"[[255 255 255]
+ [232  17  45]
+ [249 221  22]]","rgba(255,255,255,1)","rgba(232,17,45,1)","rgba(249,221,22,1)"
+91,GN,Guinea,https://flagcdn.com/w160/gn.png,"[[206  17  38]
+ [  0 148  96]
+ [252 209  22]]","rgba(206,17,38,1)","rgba(0,148,96,1)","rgba(252,209,22,1)"
+92,GW,Guinea-Bissau,https://flagcdn.com/w160/gw.png,"[[  0 158  73]
+ [252 209  22]
+ [206  17  38]]","rgba(0,158,73,1)","rgba(252,209,22,1)","rgba(206,17,38,1)"
+93,GY,Guyana,https://flagcdn.com/w160/gy.png,"[[  0 158  73]
+ [206  17  38]
+ [252 209  22]]","rgba(0,158,73,1)","rgba(206,17,38,1)","rgba(252,209,22,1)"
+94,HT,Haiti,https://flagcdn.com/w160/ht.png,"[[  0  32 159]
+ [210  16  52]
+ [255 255 255]]","rgba(0,32,159,1)","rgba(210,16,52,1)","rgba(255,255,255,1)"
+95,VA,Holy See,https://flagcdn.com/w160/va.png,"[[255 224   0]
+ [255 255 255]
+ [204 204 204]]","rgba(255,224,0,1)","rgba(255,255,255,1)","rgba(204,204,204,1)"
+96,HN,Honduras,https://flagcdn.com/w160/hn.png,"[[  0 115 207]
+ [255 255 255]
+ [ 85 162 223]]","rgba(0,115,207,1)","rgba(255,255,255,1)","rgba(85,162,223,1)"
+97,HU,Hungary,https://flagcdn.com/w160/hu.png,"[[ 67 111  77]
+ [205  42  62]
+ [255 255 255]]","rgba(67,111,77,1)","rgba(205,42,62,1)","rgba(255,255,255,1)"
+98,IS,Iceland,https://flagcdn.com/w160/is.png,"[[  2  82 156]
+ [220  30  53]
+ [255 255 255]]","rgba(2,82,156,1)","rgba(220,30,53,1)","rgba(255,255,255,1)"
+99,IN,India,https://flagcdn.com/w160/in.png,"[[ 18 136   7]
+ [255 153  51]
+ [255 255 255]]","rgba(18,136,7,1)","rgba(255,153,51,1)","rgba(255,255,255,1)"
+100,ID,Indonesia,https://flagcdn.com/w160/id.png,"[[255 255 255]
+ [255   0   0]
+ [255 127 127]]","rgba(255,255,255,1)","rgba(255,0,0,1)","rgba(255,127,127,1)"
+101,IR,Iran (Islamic Republic of),https://flagcdn.com/w160/ir.png,"[[255 255 255]
+ [218   0   0]
+ [ 35 159  64]]","rgba(255,255,255,1)","rgba(218,0,0,1)","rgba(35,159,64,1)"
+102,IQ,Iraq,https://flagcdn.com/w160/iq.png,"[[  0   0   0]
+ [206  17  38]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+103,IE,Ireland,https://flagcdn.com/w160/ie.png,"[[ 22 155  98]
+ [255 136  62]
+ [255 255 255]]","rgba(22,155,98,1)","rgba(255,136,62,1)","rgba(255,255,255,1)"
+104,IM,Isle of Man,https://flagcdn.com/w160/im.png,"[[207  20  43]
+ [255 255 255]
+ [182  17  36]]","rgba(207,20,43,1)","rgba(255,255,255,1)","rgba(182,17,36,1)"
+105,IL,Israel,https://flagcdn.com/w160/il.png,"[[255 255 255]
+ [  0  56 184]
+ [223 230 246]]","rgba(255,255,255,1)","rgba(0,56,184,1)","rgba(223,230,246,1)"
+106,IT,Italy,https://flagcdn.com/w160/it.png,"[[  0 146  70]
+ [206  43  55]
+ [255 255 255]]","rgba(0,146,70,1)","rgba(206,43,55,1)","rgba(255,255,255,1)"
+107,JM,Jamaica,https://flagcdn.com/w160/jm.png,"[[  0   0   0]
+ [  0 155  58]
+ [254 209   0]]","rgba(0,0,0,1)","rgba(0,155,58,1)","rgba(254,209,0,1)"
+108,JP,Japan,https://flagcdn.com/w160/jp.png,"[[255 255 255]
+ [188   0  45]
+ [210  84 114]]","rgba(255,255,255,1)","rgba(188,0,45,1)","rgba(210,84,114,1)"
+109,JE,Jersey,https://flagcdn.com/w160/je.png,"[[255 255 255]
+ [206  15  37]
+ [207  19  41]]","rgba(255,255,255,1)","rgba(206,15,37,1)","rgba(207,19,41,1)"
+110,JO,Jordan,https://flagcdn.com/w160/jo.png,"[[  0   0   0]
+ [  0 122  61]
+ [206  17  38]]","rgba(0,0,0,1)","rgba(0,122,61,1)","rgba(206,17,38,1)"
+111,KZ,Kazakhstan,https://flagcdn.com/w160/kz.png,"[[  0 175 202]
+ [254 197  12]
+ [223 194  35]]","rgba(0,175,202,1)","rgba(254,197,12,1)","rgba(223,194,35,1)"
+112,KE,Kenya,https://flagcdn.com/w160/ke.png,"[[  0   0   0]
+ [  0 102   0]
+ [187   0   0]]","rgba(0,0,0,1)","rgba(0,102,0,1)","rgba(187,0,0,1)"
+113,KI,Kiribati,https://flagcdn.com/w160/ki.png,"[[200  16  16]
+ [255 255 255]
+ [ 24  48 112]]","rgba(200,16,16,1)","rgba(255,255,255,1)","rgba(24,48,112,1)"
+114,XK,Kosovo (under UNSC res. 1244),https://flagcdn.com/w160/xk.png,"[[ 36  74 165]
+ [208 166  80]
+ [255 255 255]]","rgba(36,74,165,1)","rgba(208,166,80,1)","rgba(255,255,255,1)"
+115,KW,Kuwait,https://flagcdn.com/w160/kw.png,"[[  0 122  61]
+ [206  17  38]
+ [255 255 255]]","rgba(0,122,61,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+116,KG,Kyrgyzstan,https://flagcdn.com/w160/kg.png,"[[255   0   0]
+ [255 255   0]
+ [255 124   0]]","rgba(255,0,0,1)","rgba(255,255,0,1)","rgba(255,124,0,1)"
+117,LA,Lao People's Democratic Republic,https://flagcdn.com/w160/la.png,"[[206  17  38]
+ [  0  40 104]
+ [255 255 255]]","rgba(206,17,38,1)","rgba(0,40,104,1)","rgba(255,255,255,1)"
+118,LV,Latvia,https://flagcdn.com/w160/lv.png,"[[158  48  57]
+ [255 255 255]]","rgba(158,48,57,1)","rgba(255,255,255,1)","rgba(206,151,156,1)"
+119,LB,Lebanon,https://flagcdn.com/w160/lb.png,"[[237  28  36]
+ [255 255 255]
+ [  0 166  81]]","rgba(237,28,36,1)","rgba(255,255,255,1)","rgba(0,166,81,1)"
+120,LS,Lesotho,https://flagcdn.com/w160/ls.png,"[[255 255 255]
+ [  0  32 159]
+ [  0 149  67]]","rgba(255,255,255,1)","rgba(0,32,159,1)","rgba(0,149,67,1)"
+121,LR,Liberia,https://flagcdn.com/w160/lr.png,"[[191  10  48]
+ [255 255 255]
+ [  0  40 104]]","rgba(191,10,48,1)","rgba(255,255,255,1)","rgba(0,40,104,1)"
+122,LY,Libya,https://flagcdn.com/w160/ly.png,"[[  0   0   0]
+ [ 35 158  70]
+ [231   0  19]]","rgba(0,0,0,1)","rgba(35,158,70,1)","rgba(231,0,19,1)"
+123,LI,Liechtenstein,https://flagcdn.com/w160/li.png,"[[206  17  38]
+ [  0  43 127]
+ [187 158  44]]","rgba(206,17,38,1)","rgba(0,43,127,1)","rgba(187,158,44,1)"
+124,LT,Lithuania,https://flagcdn.com/w160/lt.png,"[[  0 106  68]
+ [193  39  45]
+ [253 185  19]]","rgba(0,106,68,1)","rgba(193,39,45,1)","rgba(253,185,19,1)"
+125,LU,Luxembourg,https://flagcdn.com/w160/lu.png,"[[  0 161 222]
+ [237  41  57]
+ [255 255 255]]","rgba(0,161,222,1)","rgba(237,41,57,1)","rgba(255,255,255,1)"
+126,MG,Madagascar,https://flagcdn.com/w160/mg.png,"[[255 255 255]
+ [252  61  50]
+ [  0 126  58]]","rgba(255,255,255,1)","rgba(252,61,50,1)","rgba(0,126,58,1)"
+127,MW,Malawi,https://flagcdn.com/w160/mw.png,"[[206  17  38]
+ [ 51 158  53]
+ [  0   0   0]]","rgba(206,17,38,1)","rgba(51,158,53,1)","rgba(0,0,0,1)"
+128,MY,Malaysia,https://flagcdn.com/w160/my.png,"[[255 255 255]
+ [204   0   0]
+ [  0   0 102]]","rgba(255,255,255,1)","rgba(204,0,0,1)","rgba(0,0,102,1)"
+129,MV,Maldives,https://flagcdn.com/w160/mv.png,"[[210  16  52]
+ [  0 126  58]
+ [210  15  51]]","rgba(210,16,52,1)","rgba(0,126,58,1)","rgba(210,15,51,1)"
+130,ML,Mali,https://flagcdn.com/w160/ml.png,"[[206  17  38]
+ [ 20 181  58]
+ [252 209  22]]","rgba(206,17,38,1)","rgba(20,181,58,1)","rgba(252,209,22,1)"
+131,MT,Malta,https://flagcdn.com/w160/mt.png,"[[207  20  43]
+ [255 255 255]
+ [204 204 204]]","rgba(207,20,43,1)","rgba(255,255,255,1)","rgba(204,204,204,1)"
+132,MH,Marshall Islands,https://flagcdn.com/w160/mh.png,"[[  0  56 147]
+ [255 255 255]
+ [221 117   0]]","rgba(0,56,147,1)","rgba(255,255,255,1)","rgba(221,117,0,1)"
+133,MQ,Martinique,https://flagcdn.com/w160/mq.png,"[[ 33  66 142]
+ [255 255 255]
+ [ 89 114 171]]","rgba(33,66,142,1)","rgba(255,255,255,1)","rgba(89,114,171,1)"
+134,MR,Mauritania,https://flagcdn.com/w160/mr.png,"[[  0  98  51]
+ [205  42  62]
+ [255 196   0]]","rgba(0,98,51,1)","rgba(205,42,62,1)","rgba(255,196,0,1)"
+135,MU,Mauritius,https://flagcdn.com/w160/mu.png,"[[  0 165  81]
+ [ 26  32 109]
+ [234  40  57]]","rgba(0,165,81,1)","rgba(26,32,109,1)","rgba(234,40,57,1)"
+136,YT,Mayotte,https://flagcdn.com/w160/yt.png,"[[255 255 255]
+ [223 223 223]
+ [212  46  18]]","rgba(255,255,255,1)","rgba(223,223,223,1)","rgba(212,46,18,1)"
+137,MX,Mexico,https://flagcdn.com/w160/mx.png,"[[  0 104  71]
+ [206  17  38]
+ [255 255 255]]","rgba(0,104,71,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+138,FM,Micronesia (Fed. States of),https://flagcdn.com/w160/fm.png,"[[117 178 221]
+ [255 255 255]
+ [116 178 221]]","rgba(117,178,221,1)","rgba(255,255,255,1)","rgba(116,178,221,1)"
+139,MC,Monaco,https://flagcdn.com/w160/mc.png,"[[206  17  38]
+ [255 255 255]]","rgba(206,17,38,1)","rgba(255,255,255,1)","rgba(230,136,146,1)"
+140,MN,Mongolia,https://flagcdn.com/w160/mn.png,"[[218  32  50]
+ [  0 102 179]
+ [255 217   0]]","rgba(218,32,50,1)","rgba(0,102,179,1)","rgba(255,217,0,1)"
+141,ME,Montenegro,https://flagcdn.com/w160/me.png,"[[196   3   8]
+ [211 174  59]
+ [208 164  54]]","rgba(196,3,8,1)","rgba(211,174,59,1)","rgba(208,164,54,1)"
+142,MS,Montserrat,https://flagcdn.com/w160/ms.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+143,MA,Morocco,https://flagcdn.com/w160/ma.png,"[[193  39  45]
+ [  0  98  51]
+ [ 42  84  49]]","rgba(193,39,45,1)","rgba(0,98,51,1)","rgba(42,84,49,1)"
+144,MZ,Mozambique,https://flagcdn.com/w160/mz.png,"[[252 225   0]
+ [  0 113 104]
+ [  0   0   0]]","rgba(252,225,0,1)","rgba(0,113,104,1)","rgba(0,0,0,1)"
+145,MM,Myanmar,https://flagcdn.com/w160/mm.png,"[[254 203   0]
+ [234  40  57]
+ [ 52 178  51]]","rgba(254,203,0,1)","rgba(234,40,57,1)","rgba(52,178,51,1)"
+146,NA,Namibia,https://flagcdn.com/w160/na.png,"[[  0 149  67]
+ [  0  53 128]
+ [210  16  52]]","rgba(0,149,67,1)","rgba(0,53,128,1)","rgba(210,16,52,1)"
+147,NR,Nauru,https://flagcdn.com/w160/nr.png,"[[  0  43 127]
+ [255 198  30]
+ [ 85  95  95]]","rgba(0,43,127,1)","rgba(255,198,30,1)","rgba(85,95,95,1)"
+148,NP,Nepal,https://flagcdn.com/w160/np.png,"[[255 255 255]
+ [220  20  60]
+ [  0  56 147]]","rgba(255,255,255,1)","rgba(220,20,60,1)","rgba(0,56,147,1)"
+149,NL,Netherlands,https://flagcdn.com/w160/nl.png,"[[174  28  40]
+ [255 255 255]
+ [ 33  70 139]]","rgba(174,28,40,1)","rgba(255,255,255,1)","rgba(33,70,139,1)"
+150,NC,New Caledonia,https://flagcdn.com/w160/nc.png,"[[  0  53 173]
+ [  0 149  67]
+ [237  65  53]]","rgba(0,53,173,1)","rgba(0,149,67,1)","rgba(237,65,53,1)"
+151,NZ,New Zealand,https://flagcdn.com/w160/nz.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+152,NI,Nicaragua,https://flagcdn.com/w160/ni.png,"[[  0 103 198]
+ [255 255 255]
+ [245 238 207]]","rgba(0,103,198,1)","rgba(255,255,255,1)","rgba(245,238,207,1)"
+153,NE,Niger,https://flagcdn.com/w160/ne.png,"[[224  82   6]
+ [ 13 176  43]
+ [255 255 255]]","rgba(224,82,6,1)","rgba(13,176,43,1)","rgba(255,255,255,1)"
+154,NG,Nigeria,https://flagcdn.com/w160/ng.png,"[[  0 135  81]
+ [255 255 255]
+ [170 215 197]]","rgba(0,135,81,1)","rgba(255,255,255,1)","rgba(170,215,197,1)"
+155,NU,Niue,https://flagcdn.com/w160/nu.png,"[[254 221   0]
+ [  1  33 105]
+ [200  16  46]]","rgba(254,221,0,1)","rgba(1,33,105,1)","rgba(200,16,46,1)"
+156,MK,North Macedonia,https://flagcdn.com/w160/mk.png,"[[206  32  40]
+ [249 214  22]
+ [218  82  34]]","rgba(206,32,40,1)","rgba(249,214,22,1)","rgba(218,82,34,1)"
+157,MP,Northern Mariana Islands,https://flagcdn.com/w160/mp.png,"[[  0 113 188]
+ [255 255 255]
+ [140 138 140]]","rgba(0,113,188,1)","rgba(255,255,255,1)","rgba(140,138,140,1)"
+158,NO,Norway,https://flagcdn.com/w160/no.png,"[[239  43  45]
+ [  0  40 104]
+ [255 255 255]]","rgba(239,43,45,1)","rgba(0,40,104,1)","rgba(255,255,255,1)"
+159,OM,Oman,https://flagcdn.com/w160/om.png,"[[219  22  27]
+ [255 255 255]
+ [  0 128   0]]","rgba(219,22,27,1)","rgba(255,255,255,1)","rgba(0,128,0,1)"
+160,PK,Pakistan,https://flagcdn.com/w160/pk.png,"[[  1  65  28]
+ [255 255 255]
+ [  0  64  27]]","rgba(1,65,28,1)","rgba(255,255,255,1)","rgba(0,64,27,1)"
+161,PW,Palau,https://flagcdn.com/w160/pw.png,"[[  0 153 255]
+ [255 255   0]
+ [166 219  89]]","rgba(0,153,255,1)","rgba(255,255,0,1)","rgba(166,219,89,1)"
+162,PA,Panama,https://flagcdn.com/w160/pa.png,"[[255 255 255]
+ [  7  35  87]
+ [218  18  26]]","rgba(255,255,255,1)","rgba(7,35,87,1)","rgba(218,18,26,1)"
+163,PG,Papua New Guinea,https://flagcdn.com/w160/pg.png,"[[  0   0   0]
+ [206  17  38]
+ [252 209  22]]","rgba(0,0,0,1)","rgba(206,17,38,1)","rgba(252,209,22,1)"
+164,PY,Paraguay,https://flagcdn.com/w160/py.png,"[[  0  56 168]
+ [213  43  30]
+ [255 255 255]]","rgba(0,56,168,1)","rgba(213,43,30,1)","rgba(255,255,255,1)"
+165,PE,Peru,https://flagcdn.com/w160/pe.png,"[[217  16  35]
+ [255 255 255]
+ [242 175 181]]","rgba(217,16,35,1)","rgba(255,255,255,1)","rgba(242,175,181,1)"
+166,PH,Philippines,https://flagcdn.com/w160/ph.png,"[[206  17  38]
+ [  0  56 168]
+ [255 255 255]]","rgba(206,17,38,1)","rgba(0,56,168,1)","rgba(255,255,255,1)"
+167,PL,Poland,https://flagcdn.com/w160/pl.png,"[[220  20  60]
+ [255 255 255]]","rgba(220,20,60,1)","rgba(255,255,255,1)","rgba(237,137,157,1)"
+168,PT,Portugal,https://flagcdn.com/w160/pt.png,"[[255   0   0]
+ [  0 102   0]
+ [255 255 255]]","rgba(255,0,0,1)","rgba(0,102,0,1)","rgba(255,255,255,1)"
+169,PR,Puerto Rico,https://flagcdn.com/w160/pr.png,"[[238   0   0]
+ [255 255 255]
+ [  0  80 240]]","rgba(238,0,0,1)","rgba(255,255,255,1)","rgba(0,80,240,1)"
+170,QA,Qatar,https://flagcdn.com/w160/qa.png,"[[141  27  61]
+ [255 255 255]
+ [254 252 253]]","rgba(141,27,61,1)","rgba(255,255,255,1)","rgba(254,252,253,1)"
+171,KR,Republic of Korea,https://flagcdn.com/w160/kr.png,"[[255 255 255]
+ [205  46  58]
+ [  0  71 160]]","rgba(255,255,255,1)","rgba(205,46,58,1)","rgba(0,71,160,1)"
+172,MD,Republic of Moldova,https://flagcdn.com/w160/md.png,"[[  0  70 174]
+ [204   9  47]
+ [255 210   0]]","rgba(0,70,174,1)","rgba(204,9,47,1)","rgba(255,210,0,1)"
+173,RO,Romania,https://flagcdn.com/w160/ro.png,"[[  0  43 127]
+ [206  17  38]
+ [252 209  22]]","rgba(0,43,127,1)","rgba(206,17,38,1)","rgba(252,209,22,1)"
+174,RU,Russian Federation,https://flagcdn.com/w160/ru.png,"[[213  43  30]
+ [255 255 255]
+ [  0  57 166]]","rgba(213,43,30,1)","rgba(255,255,255,1)","rgba(0,57,166,1)"
+175,RW,Rwanda,https://flagcdn.com/w160/rw.png,"[[  0 161 222]
+ [250 210   0]
+ [ 32  96  61]]","rgba(0,161,222,1)","rgba(250,210,0,1)","rgba(32,96,61,1)"
+176,RE,Réunion,https://flagcdn.com/w160/re.png,"[[ 51 102 255]
+ [255   0   0]
+ [255 255   0]]","rgba(51,102,255,1)","rgba(255,0,0,1)","rgba(255,255,0,1)"
+177,BL,Saint Barthélemy,https://flagcdn.com/w160/bl.png,"[[255 255 255]
+ [ 19  83 180]
+ [206  15  37]]","rgba(255,255,255,1)","rgba(19,83,180,1)","rgba(206,15,37,1)"
+178,SH,Saint Helena,https://flagcdn.com/w160/sh.png,"[[  1  33 105]
+ [200  16  46]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+179,KN,Saint Kitts and Nevis,https://flagcdn.com/w160/kn.png,"[[  0   0   0]
+ [  0 158  73]
+ [206  17  38]]","rgba(0,0,0,1)","rgba(0,158,73,1)","rgba(206,17,38,1)"
+180,LC,Saint Lucia,https://flagcdn.com/w160/lc.png,"[[102 204 255]
+ [252 209  22]
+ [  0   0   0]]","rgba(102,204,255,1)","rgba(252,209,22,1)","rgba(0,0,0,1)"
+181,MF,Saint Martin (French part),https://flagcdn.com/w160/mf.png,"[[237  41  57]
+ [  0  35 149]
+ [255 255 255]]","rgba(237,41,57,1)","rgba(0,35,149,1)","rgba(255,255,255,1)"
+182,PM,Saint Pierre and Miquelon,https://flagcdn.com/w160/pm.png,"[[  0 146 200]
+ [  0 145 200]
+ [255 207   0]]","rgba(0,146,200,1)","rgba(0,145,200,1)","rgba(255,207,0,1)"
+183,VC,Saint Vincent and the Grenadines,https://flagcdn.com/w160/vc.png,"[[252 208  34]
+ [  0 124  46]
+ [  0  38 116]]","rgba(252,208,34,1)","rgba(0,124,46,1)","rgba(0,38,116,1)"
+184,WS,Samoa,https://flagcdn.com/w160/ws.png,"[[206  17  38]
+ [  0  43 127]
+ [255 255 255]]","rgba(206,17,38,1)","rgba(0,43,127,1)","rgba(255,255,255,1)"
+185,SM,San Marino,https://flagcdn.com/w160/sm.png,"[[255 255 255]
+ [ 94 182 228]
+ [101 141  92]]","rgba(255,255,255,1)","rgba(94,182,228,1)","rgba(101,141,92,1)"
+186,ST,Sao Tome and Principe,https://flagcdn.com/w160/st.png,"[[ 18 173  43]
+ [255 206   0]
+ [210  16  52]]","rgba(18,173,43,1)","rgba(255,206,0,1)","rgba(210,16,52,1)"
+187,SA,Saudi Arabia,https://flagcdn.com/w160/sa.png,"[[  0 108  53]
+ [255 255 255]
+ [  0 108  52]]","rgba(0,108,53,1)","rgba(255,255,255,1)","rgba(0,108,52,1)"
+188,SN,Senegal,https://flagcdn.com/w160/sn.png,"[[  0 133  63]
+ [227  27  35]
+ [253 239  66]]","rgba(0,133,63,1)","rgba(227,27,35,1)","rgba(253,239,66,1)"
+189,RS,Serbia,https://flagcdn.com/w160/rs.png,"[[255 255 255]
+ [198  54  60]
+ [ 12  64 118]]","rgba(255,255,255,1)","rgba(198,54,60,1)","rgba(12,64,118,1)"
+190,SC,Seychelles,https://flagcdn.com/w160/sc.png,"[[214  40  40]
+ [  0  63 135]
+ [  0 122  61]]","rgba(214,40,40,1)","rgba(0,63,135,1)","rgba(0,122,61,1)"
+191,SL,Sierra Leone,https://flagcdn.com/w160/sl.png,"[[  0 114 198]
+ [255 255 255]
+ [ 30 181  58]]","rgba(0,114,198,1)","rgba(255,255,255,1)","rgba(30,181,58,1)"
+192,SG,Singapore,https://flagcdn.com/w160/sg.png,"[[255 255 255]
+ [237  41  57]
+ [246 148 156]]","rgba(255,255,255,1)","rgba(237,41,57,1)","rgba(246,148,156,1)"
+193,SX,Sint Maarten (Dutch part),https://flagcdn.com/w160/sx.png,"[[220  23  29]
+ [  1  42 135]
+ [255 255 255]]","rgba(220,23,29,1)","rgba(1,42,135,1)","rgba(255,255,255,1)"
+194,SK,Slovakia,https://flagcdn.com/w160/sk.png,"[[238  28  37]
+ [255 255 255]
+ [ 11  78 162]]","rgba(238,28,37,1)","rgba(255,255,255,1)","rgba(11,78,162,1)"
+195,SI,Slovenia,https://flagcdn.com/w160/si.png,"[[255   0   0]
+ [  0  92 229]
+ [255 255 255]]","rgba(255,0,0,1)","rgba(0,92,229,1)","rgba(255,255,255,1)"
+196,SB,Solomon Islands,https://flagcdn.com/w160/sb.png,"[[ 33  91  51]
+ [  0  81 186]
+ [252 209  22]]","rgba(33,91,51,1)","rgba(0,81,186,1)","rgba(252,209,22,1)"
+197,SO,Somalia,https://flagcdn.com/w160/so.png,"[[ 65 137 221]
+ [255 255 255]
+ [ 64 137 221]]","rgba(65,137,221,1)","rgba(255,255,255,1)","rgba(64,137,221,1)"
+198,ZA,South Africa,https://flagcdn.com/w160/za.png,"[[  0 119  73]
+ [224  60  49]
+ [  0  20 137]]","rgba(0,119,73,1)","rgba(224,60,49,1)","rgba(0,20,137,1)"
+199,SS,South Sudan,https://flagcdn.com/w160/ss.png,"[[  0   0   0]
+ [  7 137  48]
+ [ 15  71 175]]","rgba(0,0,0,1)","rgba(7,137,48,1)","rgba(15,71,175,1)"
+200,ES,Spain,https://flagcdn.com/w160/es.png,"[[198  11  30]
+ [255 196   0]
+ [213  57  23]]","rgba(198,11,30,1)","rgba(255,196,0,1)","rgba(213,57,23,1)"
+201,LK,Sri Lanka,https://flagcdn.com/w160/lk.png,"[[255 190  41]
+ [141  21  58]
+ [235 116   0]]","rgba(255,190,41,1)","rgba(141,21,58,1)","rgba(235,116,0,1)"
+202,PS,State of Palestine,https://flagcdn.com/w160/ps.png,"[[  0   0   0]
+ [  0 122  61]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(0,122,61,1)","rgba(255,255,255,1)"
+203,SD,Sudan,https://flagcdn.com/w160/sd.png,"[[  0   0   0]
+ [210  16  52]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(210,16,52,1)","rgba(255,255,255,1)"
+204,SR,Suriname,https://flagcdn.com/w160/sr.png,"[[ 55 126  63]
+ [180  10  45]
+ [255 255 255]]","rgba(55,126,63,1)","rgba(180,10,45,1)","rgba(255,255,255,1)"
+205,SE,Sweden,https://flagcdn.com/w160/se.png,"[[  0 106 167]
+ [254 204   0]]","rgba(0,106,167,1)","rgba(254,204,0,1)","rgba(127,155,83,1)"
+206,CH,Switzerland,https://flagcdn.com/w160/ch.png,"[[255   0   0]
+ [255 255 255]]","rgba(255,0,0,1)","rgba(255,255,255,1)","rgba(255,127,127,1)"
+207,SY,Syrian Arab Republic,https://flagcdn.com/w160/sy.png,"[[  0   0   0]
+ [206  17  38]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+208,TJ,Tajikistan,https://flagcdn.com/w160/tj.png,"[[255 255 255]
+ [  0 102   0]
+ [204   0   0]]","rgba(255,255,255,1)","rgba(0,102,0,1)","rgba(204,0,0,1)"
+209,TH,Thailand,https://flagcdn.com/w160/th.png,"[[ 45  42  74]
+ [244 245 248]
+ [165  25  49]]","rgba(45,42,74,1)","rgba(244,245,248,1)","rgba(165,25,49,1)"
+210,TL,Timor-Leste,https://flagcdn.com/w160/tl.png,"[[220  36  31]
+ [  0   0   0]
+ [255 199  38]]","rgba(220,36,31,1)","rgba(0,0,0,1)","rgba(255,199,38,1)"
+211,TG,Togo,https://flagcdn.com/w160/tg.png,"[[  0 106  78]
+ [255 206   0]
+ [210  16  52]]","rgba(0,106,78,1)","rgba(255,206,0,1)","rgba(210,16,52,1)"
+212,TK,Tokelau,https://flagcdn.com/w160/tk.png,"[[  1  33 105]
+ [255 209   0]
+ [255 255 255]]","rgba(1,33,105,1)","rgba(255,209,0,1)","rgba(255,255,255,1)"
+213,TO,Tonga,https://flagcdn.com/w160/to.png,"[[193   0   0]
+ [255 255 255]
+ [235 171 171]]","rgba(193,0,0,1)","rgba(255,255,255,1)","rgba(235,171,171,1)"
+214,TT,Trinidad and Tobago,https://flagcdn.com/w160/tt.png,"[[218  26  53]
+ [  0   0   0]
+ [255 255 255]]","rgba(218,26,53,1)","rgba(0,0,0,1)","rgba(255,255,255,1)"
+215,TN,Tunisia,https://flagcdn.com/w160/tn.png,"[[231   0  19]
+ [255 255 255]
+ [231   0  18]]","rgba(231,0,19,1)","rgba(255,255,255,1)","rgba(231,0,18,1)"
+216,TM,Turkmenistan,https://flagcdn.com/w160/tm.png,"[[  0 132  61]
+ [210  38  48]
+ [  0 132  60]]","rgba(0,132,61,1)","rgba(210,38,48,1)","rgba(0,132,60,1)"
+217,TC,Turks and Caicos Islands,https://flagcdn.com/w160/tc.png,"[[  0  40 104]
+ [206  17  38]
+ [255 255 255]]","rgba(0,40,104,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+218,TV,Tuvalu,https://flagcdn.com/w160/tv.png,"[[  0 149 200]
+ [200  16  46]
+ [255 255 255]]","rgba(0,149,200,1)","rgba(200,16,46,1)","rgba(255,255,255,1)"
+219,TR,Türkiye,https://flagcdn.com/w160/tr.png,"[[227  10  23]
+ [255 255 255]
+ [227   9  22]]","rgba(227,10,23,1)","rgba(255,255,255,1)","rgba(227,9,22,1)"
+220,UG,Uganda,https://flagcdn.com/w160/ug.png,"[[252 220   4]
+ [  0   0   0]
+ [217   0   0]]","rgba(252,220,4,1)","rgba(0,0,0,1)","rgba(217,0,0,1)"
+221,UA,Ukraine,https://flagcdn.com/w160/ua.png,"[[  0  91 187]
+ [255 213   0]
+ [128 152  93]]","rgba(0,91,187,1)","rgba(255,213,0,1)","rgba(128,152,93,1)"
+222,AE,United Arab Emirates,https://flagcdn.com/w160/ae.png,"[[255   0   0]
+ [  0   0   0]
+ [  0 115  47]]","rgba(255,0,0,1)","rgba(0,0,0,1)","rgba(0,115,47,1)"
+223,GB,United Kingdom,https://flagcdn.com/w160/gb.png,"[[200  16  46]
+ [255 255 255]
+ [  1  33 105]]","rgba(200,16,46,1)","rgba(255,255,255,1)","rgba(1,33,105,1)"
+224,TZ,United Republic of Tanzania,https://flagcdn.com/w160/tz.png,"[[  0   0   0]
+ [  0 163 221]
+ [ 30 181  58]]","rgba(0,0,0,1)","rgba(0,163,221,1)","rgba(30,181,58,1)"
+225,VI,United States Virgin Islands,https://flagcdn.com/w160/vi.png,"[[255 255 255]
+ [244 197  61]
+ [ 22  38 103]]","rgba(255,255,255,1)","rgba(244,197,61,1)","rgba(22,38,103,1)"
+226,US,United States of America,https://flagcdn.com/w160/us.png,"[[178  34  52]
+ [255 255 255]
+ [ 60  59 110]]","rgba(178,34,52,1)","rgba(255,255,255,1)","rgba(60,59,110,1)"
+227,UY,Uruguay,https://flagcdn.com/w160/uy.png,"[[255 255 255]
+ [  0  56 168]
+ [191 205 233]]","rgba(255,255,255,1)","rgba(0,56,168,1)","rgba(191,205,233,1)"
+228,UZ,Uzbekistan,https://flagcdn.com/w160/uz.png,"[[ 30 181  58]
+ [255 255 255]
+ [  0 153 181]]","rgba(30,181,58,1)","rgba(255,255,255,1)","rgba(0,153,181,1)"
+229,VU,Vanuatu,https://flagcdn.com/w160/vu.png,"[[  0 149  67]
+ [210  16  52]
+ [  0   0   0]]","rgba(0,149,67,1)","rgba(210,16,52,1)","rgba(0,0,0,1)"
+230,VE,Venezuela (Bolivarian Republic of),https://flagcdn.com/w160/ve.png,"[[207  20  43]
+ [255 204   0]
+ [  0  36 125]]","rgba(207,20,43,1)","rgba(255,204,0,1)","rgba(0,36,125,1)"
+231,VN,Viet Nam,https://flagcdn.com/w160/vn.png,"[[218  37  29]
+ [255 255   0]
+ [218  36  28]]","rgba(218,37,29,1)","rgba(255,255,0,1)","rgba(218,36,28,1)"
+232,WF,Wallis and Futuna Islands,https://flagcdn.com/w160/wf.png,"[[237  41  57]
+ [255 255 255]
+ [  0  35 149]]","rgba(237,41,57,1)","rgba(255,255,255,1)","rgba(0,35,149,1)"
+233,EH,Western Sahara,https://flagcdn.com/w160/eh.png,"[[  0   0   0]
+ [  0 122  61]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(0,122,61,1)","rgba(255,255,255,1)"
+234,YE,Yemen,https://flagcdn.com/w160/ye.png,"[[  0   0   0]
+ [206  17  38]
+ [255 255 255]]","rgba(0,0,0,1)","rgba(206,17,38,1)","rgba(255,255,255,1)"
+235,ZM,Zambia,https://flagcdn.com/w160/zm.png,"[[ 25 138   0]
+ [239 125   0]
+ [222  32  16]]","rgba(25,138,0,1)","rgba(239,125,0,1)","rgba(222,32,16,1)"
+236,ZW,Zimbabwe,https://flagcdn.com/w160/zw.png,"[[  0 100   0]
+ [212   0   0]
+ [255 210   0]]","rgba(0,100,0,1)","rgba(212,0,0,1)","rgba(255,210,0,1)"

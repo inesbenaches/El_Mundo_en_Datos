@@ -1,0 +1,19 @@
+Eras,x0,x1,y0,y1,Ages
+Paleolítico,-2500000.0,-6000.0,0.0,5312.5,Edad de Piedra
+Mesolítico,-6000.0,-4000.0,0.0,5312.5,Edad de Piedra
+Neolítico,-4000.0,-3000.0,0.0,5312.5,Edad de Piedra
+Bronce Temprano,-3000.0,-2100.0,0.0,5312.5,Edad de Bronce
+Bronce Medio,-2100.0,-1550.0,0.0,5312.5,Edad de Bronce
+Bronce Tradío,-1550.0,-1200.0,0.0,5312.5,Edad de Bronce
+Edad de Hierro,-1200.0,-800.0,0.0,5312.5,Edad de Hierro
+Era Griega,-800.0,-400.0,0.0,5312.5,Edad Antigua
+Era Macedónica,-400.0,-300.0,0.0,5312.5,Edad Antigua
+Era Helenística,-300.0,-146.0,0.0,5312.5,Edad Antigua
+Era Romana,-146.0,476.0,0.0,5312.5,Edad Antigua
+Edad Media Temprana,476.0,1000.0,0.0,5312.5,Edad Media
+Edad Media,1000.0,1300.0,0.0,5312.5,Edad Media
+Edad Media Tardía,1300.0,1450.0,0.0,5312.5,Edad Media
+Renacimiento,1450.0,1600.0,0.0,5312.5,Edad Moderna
+Era de los Descubrimientos,1600.0,1750.0,0.0,5312.5,Edad Moderna
+ Revolución Industrial,1750.0,1900.0,0.0,5312.5,Edad Moderna
+Edad Contemporánea,1900.0,1990.0,0.0,5312.5,Edad Moderna
