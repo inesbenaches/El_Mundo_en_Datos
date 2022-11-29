@@ -38,9 +38,9 @@ pais = st.sidebar.selectbox(
 )
 
 annos = pd.unique(df[df['Nombre']==pais]['Año'].sort_values(ascending = False))
-anno = st.sidebar.selectbox(
+anno = st.sidebar.slider(
     'Selecciona el año a visualizar',
-    annos,
+    min_value=1950, max_value=2021, value=2021, #gracias JoseLuis^^
 )
 if  '-8' in df[df['Nombre']==pais].values: #si faltara algun dato, nos lo mostraria en el sidebar.
     st.sidebar.write('Hay datos incompletas, por loq ue la interpretación puede fallar')
